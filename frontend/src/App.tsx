@@ -5,6 +5,8 @@ import HowItWorks from './components/HowItWorks';
 import LeadForm from './components/LeadForm';
 import Footer from './components/Footer';
 
+const quebrado: number = 'isso não é número';
+
 const App = () => (
   <div className="min-h-screen bg-ink text-slate-100 font-sans antialiased">
     <Nav />
